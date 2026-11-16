@@ -6,7 +6,7 @@
     <parent>
         <groupId>com.mydrive</groupId>
         <artifactId>user-ws</artifactId>
-        <version>LATEST-SNAPSHOT</version>
+        <version>develop-SNAPSHOT</version>
     </parent>
 
     <artifactId>user-service-api</artifactId>
